@@ -1,1 +1,1 @@
-# ynt_load_runner
+# google_load_runner
